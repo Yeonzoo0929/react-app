@@ -1,2 +1,2 @@
 # react-app
-react 학습
+## react 학습
